@@ -1,2 +1,9 @@
-# wdd430
-Acts as a navigation menu for all course work repos for WDD430 Full-Stack Web Development
+
+# WDD430 Full Stack Development Course
+
+## W01:
+### Prepare: Learning Activities
+- [React Foundations](https://github.com/anthonb711/wdd430ReactFoundations)
+
+### Assingment 1:
+- [React Introduction Project](https://github.com/anthonb711/<REPO NAME>)
