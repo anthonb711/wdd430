@@ -13,4 +13,4 @@
 - [React Foundations](https://github.com/anthonb711/wdd430ReactFoundations)
 
 ### Assingment 2: Learn Next.js
-- [Learn Next.js](https://github.com/anthonb711/fin-dashboard)
+- [Learn Next.js](https://github.com/anthonb711/nextjs-dashboard)
