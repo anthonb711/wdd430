@@ -14,3 +14,10 @@
 
 ### Assingment 2: Learn Next.js
 - [Learn Next.js](https://github.com/anthonb711/nextjs-dashboard)
+
+## Group Project - HandCrafted Haven:
+### Project Repo
+- [Group 3 Handcrafted Haven Repo](https://github.com/abrenzink/wdd430-handcrafted-haven-group3)
+
+### Project Production Deployment
+- [Handcrafted Haven](https://wdd430-handcrafted-haven-group3-i8tdgdyy6.vercel.app/)
