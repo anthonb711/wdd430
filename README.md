@@ -20,4 +20,4 @@
 - [Group 3 Handcrafted Haven Repo](https://github.com/abrenzink/wdd430-handcrafted-haven-group3)
 
 ### Project Production Deployment
-- [Handcrafted Haven](https://wdd430-handcrafted-haven-group3-i8tdgdyy6.vercel.app/)
+- [Handcrafted Haven](https://wdd430-handcrafted-haven-group3.vercel.app/)
